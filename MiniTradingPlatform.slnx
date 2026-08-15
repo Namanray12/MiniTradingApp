@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="MiniTrading.Application/MiniTrading.Application.csproj" />
+  <Project Path="MiniTrading.Domain/MiniTrading.Domain.csproj" />
+  <Project Path="MiniTrading.Infrastructure/MiniTrading.Infrastructure.csproj" />
+  <Project Path="MiniTrading.WebApi/MiniTrading.WebApi.csproj" />
+</Solution>
